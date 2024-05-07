@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "6ae918d74d7d9600",
+    "type": "split",
+    "children": [
+      {
+        "id": "eda82126b1ccbd1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45e32eb665d57651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning JEST.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8904c0ae1bc13ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning JEST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc0354ae35d27682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node JS/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "149bf56af4e00ba3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node JS/MVC & Patterns & Approaches.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc63f8a18edb878c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node JS/REST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23e422d2f80f3953",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nextjs/app router.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "491f59bc1332a173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning JEST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc6d81b2a39a7d2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node JS/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c115a74952a82c4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node JS/Docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28c3f3cdb3d00b16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node JS/Docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10cf81a32ff75a89",
+    "type": "split",
+    "children": [
+      {
+        "id": "1561ff8d504eaaa1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e626b9e735130c11",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "676afd48429d1a80",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67d861c77a6973f0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f1a0f9d1cbbad6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d7db1f2ecc36053",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "082300c48cd51f23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Node JS/Docker.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12e376aa76400b4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Node JS/Docker.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba54142d0f8f82e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ac3de085b34ecc3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Node JS/Docker.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "28c3f3cdb3d00b16",
+  "lastOpenFiles": [
+    "Node JS/Auth.md",
+    "Pasted image 20240506160503.png",
+    "Node JS/Index.md",
+    "Node JS/Docker.md",
+    "Pasted image 20240502161337.png",
+    "Pasted image 20240502161327.png",
+    "Pasted image 20240502160713.png",
+    "Excalidraw/Drawing 2024-05-02 13.51.15.excalidraw.md",
+    "Learning JEST.md",
+    "Excalidraw",
+    "Webpack.md",
+    "🔥 UP.md",
+    "Express Mongodb.md",
+    "Nextjs/Page VS App.md",
+    "Node JS/MVC & Patterns & Approaches.md",
+    "Clean code -> SOLID.md",
+    "Nextjs/app router.md",
+    "Node JS/REST.md",
+    "Node JS",
+    "nextjs_markdown.md",
+    "Pasted image 20240417124814.png",
+    "Pasted image 20240417124628.png",
+    "Nextjs/Index.md",
+    "storybook/Index.md",
+    "storybook/about.md",
+    "Pasted image 20240417124955.png",
+    "Nextjs",
+    "storybook",
+    "Identified mistakes from previous work.md"
+  ]
+}

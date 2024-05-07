@@ -1,0 +1,3 @@
+- need to connect and disconnect db before and after the test
+- unit test for endpoints -> test the return value
+- 
