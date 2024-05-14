@@ -51,4 +51,15 @@ So, if you have a favorite game or app and you want to share it with your friend
 	- specify what and where to copy 
 	- add a install command **(reason is to not copy every thing from the project while building, ignore all the node_modules and not necessary files in the dockerignore, so the when run install in the docker container installs all the required packages and libraries from the apps package json)**.
 	- command to start the app
-	
+
+#### Docker postgres
+(Need docker desktop)
+
+```console
+docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -p 5432:5432 -d postgres
+```
+
+What i'm doing
+```
+docker run --name shoppingList-postgres -e POSTGRES_PASSWORD=shoppinglist -p 5432:5432 -d postgres
+```

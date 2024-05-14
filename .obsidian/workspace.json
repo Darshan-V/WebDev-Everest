@@ -119,11 +119,9 @@
             "id": "28c3f3cdb3d00b16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Node JS/Docker.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240506160503.png"
               }
             }
           }
@@ -194,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node JS/Docker.md",
+                "file": "Pasted image 20240506160503.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node JS/Docker.md",
+                "file": "Pasted image 20240506160503.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node JS/Docker.md"
+                "file": "Pasted image 20240506160503.png"
               }
             }
           }
@@ -258,14 +256,17 @@
   },
   "active": "28c3f3cdb3d00b16",
   "lastOpenFiles": [
-    "Node JS/Auth.md",
-    "Pasted image 20240506160503.png",
-    "Node JS/Index.md",
-    "Node JS/Docker.md",
     "Pasted image 20240502161337.png",
     "Pasted image 20240502161327.png",
     "Pasted image 20240502160713.png",
+    "Pasted image 20240417124955.png",
+    "Pasted image 20240417124814.png",
+    "Pasted image 20240417124628.png",
+    "Node JS/Docker.md",
     "Excalidraw/Drawing 2024-05-02 13.51.15.excalidraw.md",
+    "Node JS/Auth.md",
+    "Pasted image 20240506160503.png",
+    "Node JS/Index.md",
     "Learning JEST.md",
     "Excalidraw",
     "Webpack.md",
@@ -278,12 +279,9 @@
     "Node JS/REST.md",
     "Node JS",
     "nextjs_markdown.md",
-    "Pasted image 20240417124814.png",
-    "Pasted image 20240417124628.png",
     "Nextjs/Index.md",
     "storybook/Index.md",
     "storybook/about.md",
-    "Pasted image 20240417124955.png",
     "Nextjs",
     "storybook",
     "Identified mistakes from previous work.md"
