@@ -15,6 +15,7 @@
               "state": {
                 "file": "Learning JEST.md",
                 "mode": "preview",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -27,6 +28,7 @@
               "state": {
                 "file": "Learning JEST.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -39,6 +41,7 @@
               "state": {
                 "file": "Node JS/Index.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -51,6 +54,7 @@
               "state": {
                 "file": "Node JS/MVC & Patterns & Approaches.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -63,6 +67,7 @@
               "state": {
                 "file": "Node JS/REST.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -75,6 +80,7 @@
               "state": {
                 "file": "Nextjs/app router.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -87,6 +93,7 @@
               "state": {
                 "file": "Learning JEST.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -99,6 +106,7 @@
               "state": {
                 "file": "Node JS/Index.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -109,24 +117,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node JS/Docker.md",
+                "file": "css/index.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "28c3f3cdb3d00b16",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240506160503.png"
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -192,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240506160503.png",
+                "file": "css/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240506160503.png",
+                "file": "css/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240506160503.png"
+                "file": "css/index.md"
               }
             }
           }
@@ -254,18 +253,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "28c3f3cdb3d00b16",
+  "active": "c115a74952a82c4a",
   "lastOpenFiles": [
+    "Node JS/Docker.md",
+    "css/index.md",
+    "css",
+    "Pasted image 20240506160503.png",
     "Pasted image 20240502161337.png",
     "Pasted image 20240502161327.png",
     "Pasted image 20240502160713.png",
     "Pasted image 20240417124955.png",
     "Pasted image 20240417124814.png",
     "Pasted image 20240417124628.png",
-    "Node JS/Docker.md",
     "Excalidraw/Drawing 2024-05-02 13.51.15.excalidraw.md",
     "Node JS/Auth.md",
-    "Pasted image 20240506160503.png",
     "Node JS/Index.md",
     "Learning JEST.md",
     "Excalidraw",
